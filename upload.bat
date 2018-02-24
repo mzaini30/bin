@@ -1,5 +1,5 @@
 @echo off
-title bin
+title bin-bin
 
 :app
 git status
